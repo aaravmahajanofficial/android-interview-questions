@@ -1,4 +1,4 @@
-# What is a ViewModel and how is it useful? | Amit Shekhar
+# What is a ViewModel and how is it useful?
 
 ## Overview
 
@@ -267,3 +267,7 @@ The structural capacity of a software element to track the lifecycle status of a
 The `ViewModel` class holds, isolates, and manages visual states while insulating data processing structures away from transient UI layers `[00:00:26]`. By outlasting temporary screen destruction cycles, it prevents unnecessary device re-fetching, preserves heavy runtime information models, and simplifies building cohesive, testable Android applications `[00:01:45]`.
 
 *For more details, check out the original video: [What is a ViewModel and how is it useful?*](http://www.youtube.com/watch?v=ORtieK5f_zg)
+
+---
+
+[What happens when the screen rotates?](https://share.google/aimode/do4tcneo9FpyudmRT)
